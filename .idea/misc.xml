@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/button_gradient.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/buttons_gradient.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/card_one_gradient.xml" value="0.2203125" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/card_three_gradient.xml" value="0.2203125" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/card_two_gradient.xml" value="0.2203125" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/favourite_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/drawable/play_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_categories.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_category_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_mood_detection.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_music_player.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_my_profile.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/single_grid_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/layout/single_list_view_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rajaa/Desktop/Mohsin/AndroidStudio Projects/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/photo1.png.xml" value="0.2101851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
